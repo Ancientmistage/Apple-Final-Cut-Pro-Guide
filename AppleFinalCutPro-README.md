@@ -8,7 +8,7 @@
 
 An overview guide to **Apple Final Cut Pro** — a professional, magnetic-timeline video editor built exclusively for Mac and iPad, optimized for Apple Silicon.
 
-[![Buy](https://img.shields.io/badge/🛒_BUY_OFFICIALLY-FF0000?style=for-the-badge)](https://www.apple.com/final-cut-pro/) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE_FOR_90_DAYS-1E90FF?style=for-the-badge)](https://www.apple.com/final-cut-pro/trial/)
+[![Buy](https://img.shields.io/badge/🛒_FREE_OFFICIALLY-FF0000?style=for-the-badge)](https://share.google/srmIRrjF9wXKLnLN8) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://share.google/srmIRrjF9wXKLnLN8)
 
 ---
 
@@ -40,30 +40,3 @@ Final Cut Pro is Apple's **professional non-linear video editor**, known for its
 | Final Cut Pro for iPad (Monthly/Annual)| Subscription-based, tailored for touch workflows        |
 | Education Pricing                  | Discounted pricing for students and educators              |
 
-👉 Exact current prices and regional availability: [apple.com/final-cut-pro](https://www.apple.com/final-cut-pro/)
-
-## 🚀 How to Get Started
-
-1. Go to the official page → [apple.com/final-cut-pro](https://www.apple.com/final-cut-pro/)
-2. Choose the Mac (one-time) or iPad (subscription) version.
-3. Open the **App Store** on your Mac or iPad.
-4. Purchase or subscribe and download directly through the App Store.
-
-## 🆓 Free Trial
-
-Apple offers a **90-day free trial** for Final Cut Pro on Mac — one of the longest trial periods in the industry.
-
-[![Trial](https://img.shields.io/badge/Start_Free_Trial-000000?style=for-the-badge)](https://www.apple.com/final-cut-pro/trial/)
-
-## 📚 Learning Resources
-
-- [Official Final Cut Pro Tutorials](https://www.apple.com/final-cut-pro/resources/)
-- [Apple Support for Final Cut Pro](https://support.apple.com/final-cut-pro)
-
-## ⚠️ Disclaimer
-
-This repository does not host or distribute any Apple software or license keys. It only links to official Apple pages for informational and educational purposes.
-
----
-
-Made with ❤️ for filmmakers and video creators
